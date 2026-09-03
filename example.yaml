@@ -1,0 +1,16 @@
+strategy:
+  market: BTC_UP_DOWN
+  min_edge: 0.02
+
+risk:
+  max_position_size: 20
+  max_daily_loss: 50
+  kill_switch: true
+
+execution:
+  dry_run: true
+  require_both_legs: true
+
+agents:
+  watcher: true
+  executor: true
