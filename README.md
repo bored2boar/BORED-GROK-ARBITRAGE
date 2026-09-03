@@ -5,6 +5,7 @@
 A market-neutral arbitrage system designed to detect pricing inefficiencies in binary BTC markets on Polymarket.
 
 The core idea is simple: when the executable cost of buying both sides of a binary market is below $1.00, the difference represents a potential gross arbitrage edge.
+![BORED ARBITRAGE TERMINAL](assets/banner.jpg)
 
 ## Strategy
 
